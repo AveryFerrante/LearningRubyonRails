@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.0.2'
 # Bootstrap for CSS styling
 gem 'bootstrap-sass'
+# Secure password hashing
+gem 'bcrypt'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
